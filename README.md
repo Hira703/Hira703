@@ -29,19 +29,14 @@ I'm a passionate frontend developer from Bangladesh 🇧🇩, focused on craftin
 
 ---
 
-
-
----
-
 ## 📈 GitHub Stats
 
-![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoniaAkterHira&show_icons=true&theme=gruvbox)
+![Sonia's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hira703&show_icons=true&theme=gruvbox)
 
 ---
 
 ## 📫 Connect With Me
 
--
 - 💼 [LinkedIn](https://www.linkedin.com/in/sonia-akter-hira-880a18287/)
 - ✉️ Email: soniahira48@gmail.com
 

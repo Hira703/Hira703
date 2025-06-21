@@ -3,7 +3,7 @@
 🎓 Information Technology student at Jahangirnagar University  
 💻 MERN Stack Developer | Frontend Focused  
 🎨 React • Tailwind CSS • DaisyUI • Firebase • Express • MongoDB  
-🌱 Currently mastering full-stack development & system architecture
+🌱 Currently contributing to full-stack projects & strengthening backend architecture
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Hira703&style=for-the-badge)
 
@@ -13,10 +13,10 @@
 
 I'm a passionate full-stack developer from Bangladesh 🇧🇩, focused on crafting beautiful, responsive, and scalable web applications.
 
-- 🔭 Currently building: **A Utility Bill Payment App (Full Stack)**
+- 🚀 Working on: **A job portal platform with resume uploads, role-based dashboards, and real-time data**
 - 🧰 Favorite Tools: React, Tailwind CSS, Firebase, Express.js, MongoDB, Vite
-- 🧠 Learning: REST API, MongoDB Aggregation, Auth, Role-based access, Clean Code Practices
-- 🎯 Goal: Build a stunning portfolio and secure an internship or junior developer role at a top tech company
+- 🧠 Learning: API security, clean backend architecture, file uploads, MongoDB operations
+- 🎯 Goal: Build a polished developer portfolio and land a MERN stack internship or junior role at a top tech company
 
 ---
 

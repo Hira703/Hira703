@@ -1,18 +1,21 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/0jLmhNsF/github-header-banner.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/0jLmhNsF/github-header-banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I’m Sonia Akter Hira 👋</h1>
-<h3 align="center">MERN Stack Developer | Building Interactive & Scalable Web Apps</h3>
+<h3 align="center">MERN Stack Developer | Building Interactive & Scalable Web Applications</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm an Information Technology student at **Jahangirnagar University**, specializing in the **MERN stack**. I focus on developing scalable, responsive full-stack applications with clean code, strong backend logic, and modern frontend design.
+I'm an Information Technology student at **Jahangirnagar University**, specializing in the **MERN stack**.  
+I am passionate about building scalable, responsive full-stack applications with clean code, strong backend logic, and modern frontend design.  
 
+I strive to deliver great user experiences with a focus on performance, maintainability, and usability.
 
+---
 
 ### 🛠 Tech Stack
 
@@ -52,48 +55,22 @@ I'm an Information Technology student at **Jahangirnagar University**, specializ
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonia-akter-hira-880a18287)  
-✉️ Email: soniahira48@gmail.com  
-📍 Location: Dhaka, Bangladesh
-
----
-
-## 📌 Pinned Projects
-
-Here are six projects that showcase my full-stack capabilities:
-
-### **1. WinterPay**
-- **Overview**: A secure utility bill payment system with role-based dashboard access and transaction tracking.
-- **Features**: Firebase Auth, payment history, protected routes, and custom hooks.
-- **Tech Stack**: React, Tailwind, Firebase, Node.js, MongoDB
-- 🔗 [Live Site](https://winterpay.netlify.app) | [Repo](https://github.com/Hira703/WinterPay)
-
----
-
-### **2. My-Blog**
-- **Overview**: A full-stack blog site enabling users to create, edit, and delete posts.
-- **Features**: CRUD operations, image upload, login system.
-- **Tech Stack**: React, Express, MongoDB, JWT
-- 🔗 [Live Site](https://my-blog-hira703.netlify.app) | [Repo](https://github.com/Hira703/My-Blog)
-
----
-
-### **3. Recipe-Book**
-- **Overview**: A MERN app where users can share, save, and browse recipes.
-- **Features**: Auth system, filters by cuisine and category, clean UI.
-- **Tech Stack**: React, Node.js, Express, MongoDB, JWT
-- 🔗 [Live Site](https://recipebook-hira703.netlify.app) | [Repo](https://github.com/Hira703/Recipe-Book)
-
-
-
-### **6. Lawyer-Booking-App**
-- **Overview**: An appointment-booking web app for lawyers with fee charts and user dashboard.
-- **Features**: Booking system, responsive UI, animated counters, protected routes.
-- **Tech Stack**: React, Tailwind CSS, Recharts, localStorage
-- 🔗 [Live Site](https://lawyer-booking-hira703.netlify.app) | [Repo](https://github.com/Hira703/lawyer-booking-app)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sonia-akter-hira-880a18287" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:soniahira48@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Dhaka,_Bangladesh-4AB197?style=flat" alt="Location" />
+</p>
 
 ---
 
 > "Build visually, code beautifully."  
 > “Strive for clean code, powerful UI, and joyful UX.”
+
+
 

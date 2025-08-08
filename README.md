@@ -4,45 +4,47 @@
 </p>
 
 <h1 align="center">Hi, I’m Sonia Akter Hira 👋</h1>
-<h3 align="center">MERN Stack Developer | Building Interactive & Scalable Web Apps</h3>
+<h3 align="center">MERN Stack Developer | Passionate about Building Interactive & Scalable Web Apps</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-I'm an Information Technology student at **Jahangirnagar University**, specializing in the **MERN stack**. I focus on developing scalable, responsive full-stack applications with clean code, strong backend logic, and modern frontend design.
+I am an Information Technology student at **Jahangirnagar University** specializing in the **MERN stack** — MongoDB, Express.js, React.js, and Node.js.  
+I build **responsive, user-friendly full-stack applications** with clean, maintainable code and efficient backend architectures.  
+Currently, I am actively seeking **job opportunities and internships** to further develop my skills and contribute to impactful projects.
 
 ---
 
 ### 🛠 Tech Stack
 
-#### 💻 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="28" />
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" height="28" />
 </p>
 
-#### ⚙️ Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=for-the-badge" height="28" />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="28" />
 </p>
 
-#### 🛠 Tools & Others
 <p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge" height="28" />
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="28" />
+  <!-- Tools & Others -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="28" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" />
 </p>
 
 ---
@@ -59,17 +61,26 @@ I'm an Information Technology student at **Jahangirnagar University**, specializ
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sonia-akter-hira-880a18287" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  <a href="https://www.linkedin.com/in/sonia-akter-hira-880a18287" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
 </p>
 
 <p align="center">
-  ✉️ Email: <a href="mailto:soniahira48@gmail.com">soniahira48@gmail.com</a><br />
-  📍 Location: Dhaka, Bangladesh
+  ✉️ <a href="mailto:soniahira48@gmail.com">soniahira48@gmail.com</a><br />
+  📍 Dhaka, Bangladesh
 </p>
 
 ---
 
 > "Build visually, code beautifully."  
-> “Strive for clean code, powerful UI, and joyful UX.”
+> “Strive for clean code, powerful UI, and joyful UX.”  
+
+---
+
+### 🚀 I’m actively looking for
+- **Internships & entry-level jobs** in MERN stack development  
+- Opportunities to contribute to real-world projects  
+- Collaborative teams and mentorship to grow as a developer  
+
+Feel free to reach out for collaborations or job offers!
